@@ -1,0 +1,71 @@
+.clear {
+	clear: both;
+}
+
+body {
+	background-color: #000;
+	color: #fff;
+	background:url(https://wpapers.ru/wallpapers/All/12612/1920x1080_%D0%A2%D0%B5%D0%BA%D1%81%D1%82%D1%83%D1%80%D0%B0-%D1%84%D0%B8%D0%BE%D0%BB%D0%B5%D1%82%D0%BE%D0%B2%D0%BE%D0%B3%D0%BE-%D0%B4%D0%B5%D1%80%D0%B5%D0%B2%D0%B0.jpg) no-repeat;
+}
+
+.wrapper {
+	width: 940px;
+	margin: 50px auto;
+}
+
+.header {
+	background: #aefff7;
+	width: 100%;
+	height: 200px;
+	border-radius: 5px;
+}
+
+.topmenu {
+	background: #87c5FF;
+	width: 100%;
+	margin-top: 5px;
+	height: 50px;
+	position: relative;
+}
+
+.button {
+	display: none;
+	width: 32px;
+	height: 21px;
+	top: 2px;
+	left: 6px;
+	background: #6d6e6d;
+	border-radius: 2px;
+	position: absolute;
+}
+
+.lan {
+	width: 29px;
+	height: 3px;
+	background: #2d2828;
+	margin: 3px auto;
+}
+
+.sideleft {
+	background: #81ffb6;
+	width: 30%;
+	height: 354px;
+	margin-top: 5px;
+	padding: 1px 0;
+	float: left;
+}
+
+.content {
+	background: #F9A825;
+	width: 69%;
+	margin-top: 5px;
+	height: 355px;
+	float: right;
+}
+
+.footer {
+	background: #91a43c;
+	width: 100%;
+	margin-top: 5px;
+	height: 70px;
+}
